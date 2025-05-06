@@ -1,5 +1,5 @@
 [Adblock Plus 3.6]
-! Title: 🔍 Block third party fonts for ABP
+! Title: 🔍 Block third party fonts for AdBlock Plus
 ! Description: Block most third-party fonts. Allows for Material Icons and WOFF fonts in order to not break sites.
 ! Homepage: https://github.com/Metrokoto/filterlists
 ! Expires: 4 days (update frequency)
