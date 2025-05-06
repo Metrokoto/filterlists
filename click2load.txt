@@ -1,0 +1,66 @@
+[Adblock Plus 3.6]
+! Title: ⛔ yokoffing's click2load filters for ABP
+! Description: To be used in ABP (WARNING: click2load functionality will not work in ABP)
+! Homepage: https://github.com/Metrokoto/filterlists-abp
+! Expires: 7 days (update frequency)
+! Version: 06 May 2025
+! Syntax: AdBlock
+||airtable.com/embed*$third-party
+||art19.com/shows/$third-party
+||bandcamp.com/EmbeddedPlayer/$third-party
+||checkout.shopify.com/$third-party
+||codepen.io/hubspot/embed/$third-party
+||dexscreener.com/$third-party
+||discuss.privacyguides.net/embed/$third-party
+||docs.google.com/$third-party
+||docs.google.com/document/d/e/$third-party
+||docs.google.com/forms/$third-party
+||docs.google.com/presentation/d/e/$third-party
+||docs.google.com/spreadsheets/$third-party
+||docs.google.com/viewer*$third-party
+||drive.google.com/file/$third-party
+||embed.acast.com/$third-party
+||embed.documentcloud.org/$third-party
+||embed.music.apple.com/$third-party
+||embed.podcasts.apple.com/$third-party
+||embed.ted.com/$third-party
+||glitch.com/embed/$third-party
+||google.com/maps/embed$third-party
+||html5-player.libsyn.com/embed/$third-party
+||iframe.videodelivery.net/$third-party
+||infosec.exchange/$third-party
+||loom.com/embed/$third-party
+||ok.ru/videoembed^$third-party
+||onedrive.live.com/embed^$third-party
+||open.spotify.com/embed-podcast/$third-party
+||open.spotify.com/embed/$third-party
+||player.blubrry.com/$third-party
+||player.captivate.fm^$third-party
+||player.hotmart.com/$third-party
+||player.megaphone.fm/$third-party
+||player.simplecast.com^$third-party
+||player.twitch.tv/$third-party
+||player.vimeo.com/video^$third-party
+||playlist.megaphone.fm/$third-party
+||podbean.com/player-v2/$third-party
+||quizlet.com/$third-party
+||reddit.com/mediaembed/$third-party
+||rutube.ru/play/embed/$third-party
+||s3.amazonaws.com/embed.animoto.com/$third-party
+||safe.txmblr.com^$third-party
+||scribd.com/embeds/$third-party
+||stay22.com/embed/$third-party
+||static.vidgyor.com/player/$third-party
+||traderjoexyz.com/$third-party
+||trinitymedia.ai/player/trinity-player.php*$third-party
+||truthsocial.com^$third-party
+||twitch.tv^$third-party
+||vimeo.com/event/$third-party
+||view.genial.ly$third-party
+||vk.com/video_ext$third-party
+||volume.vox-cdn.com/embed/$third-party
+||w.soundcloud.com/player/$third-party
+||youtube-nocookie.com/embed^$third-party
+||youtube.com^$third-party
+||embed.reddit.com^$third-party
+||tiktok.com/embed^$third-party
