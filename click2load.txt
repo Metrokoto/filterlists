@@ -1,7 +1,7 @@
 [Adblock Plus 3.6]
-! Title: ⛔ yokoffing's click2load filters for ABP
-! Description: To be used in ABP (WARNING: click2load functionality will not work in ABP)
-! Homepage: https://github.com/Metrokoto/filterlists-abp
+! Title: ⛔ yokoffing's click2load filters for AdBlock Plus
+! Description: To be used in AdBlock Plus (WARNING: click2load functionality is not supported in AdBlock Plus)
+! Homepage: https://github.com/Metrokoto/filterlists
 ! Expires: 7 days (update frequency)
 ! Version: 06 May 2025
 ! Syntax: AdBlock
