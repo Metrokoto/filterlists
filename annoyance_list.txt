@@ -472,7 +472,6 @@ psypost.org##.col-md-4.jeg_sticky_sidebar.jeg_sidebar > .jegStickyHolder
 purple.com##.scrolled.email-footer
 quizlet.com##.SetPageTermsStickyBanner-container, .UIModal-box, .oxppdgq.ohebfrr.ReactModal__Overlay--after-open.ReactModal__Overlay
 quizlet.com##.Toastify, .TextbookRecommendations
-quizlet.com##+js(rc, has-adz|hasStickyAd, div[class^="SetPage"], stay)
 qvc.com###footer_btm_module_3
 qz.com##.js_qz_newsletter_signup_placeholder
 raider.io##.text-white > .slds-m-bottom--large
