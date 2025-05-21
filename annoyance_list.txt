@@ -206,8 +206,6 @@ coinmarketcap.com##.jiWaSe.ii1g3i-0
 cointelegraph.com##.post-content__accent_big.post-content__accent
 cointelegraph.com###article-72206 > .post__content-wrapper > .post-content > .post-content__disclaimer, .c-2H4MkO3QiqFhqPIp8qO.container, .post__block_tags.post__block.tags-list, .post-content__disclaimer, .post-page__youtube-block, .related-list, .sidebar, .stretch-banner-youtube
 collider.com###secondary, .related-single, .next-single, .next-btn.sentinel-article-nextArticle, .w-article-related
-comedyshow.to##+js(acis, JSON.parse, break;case $.)
-comicbook.com##.js-activateComments.mid-content-comment, .related-stories
 commondreams.org##.d-print-none.position-relative, .d-print-none.py-5.bg-white, .embedded-entity, .headline--full.headline.node > div > .d-print-none, .py-5.bg-light.block
 computerverge.com##.is-alreay-loaded.is-fixed.is-sticky.normal-side.tie-col-xs-12.tie-col-md-4.sidebar > .theiaStickySidebar
 connectthewatts.com##.is-resized.size-large.aligncenter, .is-resized.size-full.aligncenter
@@ -700,7 +698,7 @@ kellegram.xyz##.socials
 ||readaloud.googleapis.com^$script
 ||elements.video^$third-party
 ||redvideo.io^$domain=~redvideo.io
-||kaltura.com^$3p,domain=~financialaidtv.com
+||kaltura.com^$third-party,domain=~financialaidtv.com
 @@||cdnapi-legacy.kaltura.com^$xmlhttprequest,domain=yle.fi
 ||beyondwords.io^
 ||code.responsivevoice.org^
