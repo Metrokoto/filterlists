@@ -4,7 +4,7 @@
 ! Version: 21 May 2025
 ! License: https://creativecommons.org/licenses/by/3.0/
 ! Homepage: https://github.com/Metrokoto/filterlists
-! Expires: 4 days (update frequency)
+! Expires: 7 days (update frequency)
 ! Syntax: AdBlock
 @@||ajax.googleapis.com/ajax/libs/webfont/$script,domain=bootsnipp.com|regexpal.com|typepad.com
 @@||amazonaws.com^$font,third-party,domain=dollartree.com|plex.tv
