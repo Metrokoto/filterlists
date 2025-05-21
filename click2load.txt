@@ -61,6 +61,6 @@
 ||volume.vox-cdn.com/embed/$third-party
 ||w.soundcloud.com/player/$third-party
 ||youtube-nocookie.com/embed^$third-party
-||youtube.com^$third-party
+||youtube.com/embed^$subdocument
 ||embed.reddit.com^$third-party
 ||tiktok.com/embed^$third-party
