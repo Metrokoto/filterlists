@@ -60,7 +60,6 @@
 ||vk.com/video_ext$third-party
 ||volume.vox-cdn.com/embed/$third-party
 ||w.soundcloud.com/player/$third-party
-||youtube-nocookie.com/embed^$third-party
-||youtube.com/embed^$subdocument
+||/embed$subdocument,domain=youtube.com|youtube-nocookie.com,rewrite=abp-resource:blank-html
 ||embed.reddit.com^$third-party
 ||tiktok.com/embed^$third-party
