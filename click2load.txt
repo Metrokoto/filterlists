@@ -3,7 +3,7 @@
 ! Description: To be used in AdBlock Plus (WARNING: click2load functionality is not supported in AdBlock Plus)
 ! Homepage: https://github.com/Metrokoto/filterlists
 ! Expires: 7 days (update frequency)
-! Version: 06 May 2025
+! Version: 21 May 2025
 ! Syntax: AdBlock
 ||airtable.com/embed*$third-party
 ||art19.com/shows/$third-party
