@@ -368,9 +368,9 @@
 @@||use.typekit.net^$script,font
 ||accounts.google.com^$third-party,domain=~youtube.com|~twitter.com|~x.com
 ||ampcid.google.com^
-||contributor.google.com^$3p
-||doubleclickbygoogle.com^$3p
-||firebase.com^$3p
+||contributor.google.com^$third-party
+||doubleclickbygoogle.com^$third-party
+||firebase.com^$third-party
 ||firebase.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 ||google-analytics.com^$third-party
