@@ -1,0 +1,56 @@
+[Adblock Plus 3.6]
+! Title: 📺 YouTube Clear View for AdBlock Plus
+! Description: Clean up YouTube clutter
+! Version: 24 May 2025
+! License: https://creativecommons.org/licenses/by/3.0/
+! Homepage: https://github.com/Metrokoto/filterlists
+! Expires: 7 days (update frequency)
+! Syntax: AdBlock
+www.youtube.com###actions.ytd-watch-metadata button > div[class$="text-content"]:not(:has-text(/[\d]/))
+www.youtube.com###actions.ytd-watch-metadata ytd-button-renderer .yt-spec-button-shape-next .yt-spec-button-shape-next--button-text-content
+www.youtube.com###actions.ytd-watch-metadata ytd-button-renderer .yt-spec-button-shape-next__icon:style(margin-right: -6px !important; margin-left: -6px !important;)
+m.youtube.com##ytm-slim-video-action-bar-renderer button [class*="button-text-content"]:not(:has-text(/\d/))
+m.youtube.com##ytm-slim-video-action-bar-renderer ytm-button-renderer div[class$="icon"]:style(margin-right: -6px !important; margin-left: -6px !important;)
+www.youtube.com###chat:remove()
+www.youtube.com##ytd-reel-shelf-renderer
+www.youtube.com##.ytp-suggested-action-badge-expanded
+www.youtube.com##.ytp-paid-content-overlay
+www.youtube.com##ytd-browse ytd-grid-video-renderer:has(ytd-thumbnail-overlay-time-status-renderer[overlay-style="UPCOMING"])
+www.youtube.com##ytd-browse ytd-rich-item-renderer:has(ytd-thumbnail-overlay-time-status-renderer[overlay-style="UPCOMING"])
+www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer ytd-thumbnail-overlay-time-status-renderer[overlay-style="UPCOMING"]:upward(ytd-item-section-renderer)
+youtube.com##.ytp-button.branding-img-container
+www.youtube.com##.ytd-badge-supported-renderer.style-scope.badge-style-type-verified.badge
+www.youtube.com##.ytd-comment-renderer #author-text:remove-attr(hidden)
+www.youtube.com##.ytd-comment-renderer #author-comment-badge
+www.youtube.com##ytd-video-meta-block + ytd-badge-supported-renderer
+www.youtube.com##yt-smartimation > *:not(.smartimation__content)
+||youtube.com/youtubei/v1/updated_metadata
+www.youtube.com###description #info a[href^="/hashtag/"]
+www.youtube.com###super-title
+www.youtube.com##.super-title
+m.youtube.com##.standalone-collection-badge a[href^="/hashtag/"]
+m.youtube.com##ytm-video-description-header-renderer button-view-model a[href^="/hashtag/"]
+www.youtube.com###description .ytd-watch-metadata #items:has(.ytd-video-description-music-section-renderer)
+m.youtube.com##ytm-video-description-music-section-renderer
+youtube.com##ytd-rich-item-renderer:has([href$="start_radio=1"])
+youtube.com##ytd-compact-radio-renderer
+youtube.com###related yt-lockup-view-model:has([href*="&start_radio=1&"])
+youtube.com##ytd-radio-renderer
+youtube.com##ytd-search yt-lockup-view-model:has([href$="&start_radio=1"][aria-label])
+youtube.com##.ytp-videowall-still[data-is-mix="true"]
+youtube.com##ytd-compact-playlist-renderer:has([title^="YouTube"])
+youtube.com###donation-shelf
+youtube.com##[is-shorts]
+www.youtube.com###guide [title="Shorts"], .ytd-mini-guide-entry-renderer[title="Shorts"]
+www.youtube.com##ytd-search ytd-video-renderer:has([overlay-style="SHORTS"])
+www.youtube.com##ytd-reel-shelf-renderer
+www.youtube.com##[tab-title="Shorts"]
+www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-grid-video-renderer:has([overlay-style="SHORTS"])
+www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer:has([overlay-style="SHORTS"])
+www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-rich-item-renderer:has([overlay-style="SHORTS"])
+www.youtube.com###related ytd-compact-video-renderer:has([overlay-style="SHORTS"])
+m.youtube.com##ytm-pivot-bar-item-renderer:has(>.pivot-shorts)
+m.youtube.com##ytm-reel-shelf-renderer
+m.youtube.com##ytm-rich-section-renderer:has([d^="M17.77,10.32l-1.2"])
+m.youtube.com##ytm-search ytm-video-with-context-renderer:has([data-style="SHORTS"])
+m.youtube.com##[tab-title="Shorts"]
