@@ -1,7 +1,7 @@
 [Adblock Plus 3.6]
 ! Title: ⛔ yokoffing's click2load filters for AdBlock Plus
 ! Description: To be used in AdBlock Plus (WARNING: click2load functionality is not supported in AdBlock Plus)
-! Version: 21 May 2025
+! Version: 24 May 2025
 ! License: https://creativecommons.org/licenses/by/3.0/
 ! Homepage: https://github.com/Metrokoto/filterlists
 ! Expires: 7 days (update frequency)
@@ -63,8 +63,8 @@
 ||w.soundcloud.com/player/$subdocument,domain=w.soundcloud.com,rewrite=abp-resource:blank-html
 ||youtube-nocookie.com/embed^$subdocument,domain=youtube-nocookie.com,rewrite=abp-resource:blank-html
 ||youtube.com^$subdocument,domain=youtube.com,rewrite=abp-resource:blank-html
-||embed.reddit.com^$3p,frame,redirect=click2load.html
-||tiktok.com/embed^$3p,frame,redirect=click2load.html
+||embed.reddit.com^$subdocument,domain=embed.reddit.com,rewrite=abp-resource:blank-html
+||tiktok.com/embed^$subdocument,domain=tiktok.com,rewrite=abp-resource:blank-html
 ||cdn.embedly.com/widgets/$subdocument,domain=cdn.embedly.com,rewrite=abp-resource:blank-html
 ||cdn.embedly.com/widgets/media.html*$subdocument,domain=cdn.embedly.com,rewrite=abp-resource:blank-html
 ||gfycat.com/$subdocument,domain=gfycat.com,rewrite=abp-resource:blank-html
