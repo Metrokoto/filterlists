@@ -452,7 +452,7 @@
 ||klarnacdn.net^$third-party
 ||klarnaservices.com^$third-party
 ||preorder-now.herokuapp.com^$third-party
-||razorpay.com^$3p,domain=~redtape.com
+||razorpay.com^$third-party,domain=~redtape.com
 @@||checkout.razorpay.com^
 ||quadpay.com^$third-party
 ||shop.app^$third-party
