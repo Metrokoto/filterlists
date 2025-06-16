@@ -1,5 +1,5 @@
 [Adblock Plus 3.6]
-! Title: 🤚 Combined Annoyances List (network filters only) fot AdBlock Plus
+! Title: 🤚 Combined Annoyances List (network filters only) for AdBlock Plus
 ! Description: From AdGuard Annoyances and Fanboy Annoyance lists.
 ! Version: 24 May 2025
 ! License: https://creativecommons.org/licenses/by/3.0/
