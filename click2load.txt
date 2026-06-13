@@ -62,7 +62,7 @@
 ||volume.vox-cdn.com/embed/$subdocument,domain=volume.vox-cdn.com,rewrite=abp-resource:blank-html
 ||w.soundcloud.com/player/$subdocument,domain=w.soundcloud.com,rewrite=abp-resource:blank-html
 ||www.youtube-nocookie.com/embed^$subdocument,domain=www.youtube-nocookie.com,rewrite=abp-resource:blank-html
-||www.youtube.com^$subdocument,domain=www.youtube.com,rewrite=abp-resource:blank-html
+||www.youtube.com/embed^$subdocument,domain=www.youtube.com,rewrite=abp-resource:blank-html
 ||embed.reddit.com^$subdocument,domain=embed.reddit.com,rewrite=abp-resource:blank-html
 ||tiktok.com/embed^$subdocument,domain=tiktok.com,rewrite=abp-resource:blank-html
 ||cdn.embedly.com/widgets/$subdocument,domain=cdn.embedly.com,rewrite=abp-resource:blank-html
