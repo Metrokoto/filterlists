@@ -10,7 +10,7 @@
 ||art19.com/shows/$subdocument,domain=art19.com,rewrite=abp-resource:blank-html
 ||bandcamp.com/EmbeddedPlayer/$subdocument,domain=bandcamp.com,rewrite=abp-resource:blank-html
 ||checkout.shopify.com/$subdocument,domain=checkout.shopify.com,rewrite=abp-resource:blank-html
-||codepen.io/hubspot/embed/$3p,frame,redirect=click2load.html,domain=~theodinproject.com
+||codepen.io/hubspot/embed/$subdocument,domain=codepen.io,rewrite=abp-resource:blank-htm
 ||dexscreener.com/$subdocument,domain=dexscreener.com,rewrite=abp-resource:blank-html
 ||discuss.privacyguides.net/embed/$subdocument,domain=discuss.privacyguides.net,rewrite=abp-resource:blank-html
 ||docs.google.com/$subdocument,domain=docs.google.com,rewrite=abp-resource:blank-html
@@ -61,8 +61,8 @@
 ||vk.com/video_ext$subdocument,domain=vk.com,rewrite=abp-resource:blank-html
 ||volume.vox-cdn.com/embed/$subdocument,domain=volume.vox-cdn.com,rewrite=abp-resource:blank-html
 ||w.soundcloud.com/player/$subdocument,domain=w.soundcloud.com,rewrite=abp-resource:blank-html
-||youtube-nocookie.com/embed^$subdocument,domain=youtube-nocookie.com,rewrite=abp-resource:blank-html
-||youtube.com^$subdocument,domain=youtube.com,rewrite=abp-resource:blank-html
+||www.youtube-nocookie.com/embed^$subdocument,domain=www.youtube-nocookie.com,rewrite=abp-resource:blank-html
+||www.youtube.com^$subdocument,domain=www.youtube.com,rewrite=abp-resource:blank-html
 ||embed.reddit.com^$subdocument,domain=embed.reddit.com,rewrite=abp-resource:blank-html
 ||tiktok.com/embed^$subdocument,domain=tiktok.com,rewrite=abp-resource:blank-html
 ||cdn.embedly.com/widgets/$subdocument,domain=cdn.embedly.com,rewrite=abp-resource:blank-html
