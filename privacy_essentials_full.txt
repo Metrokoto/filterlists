@@ -1,7 +1,7 @@
 [Adblock Plus 3.6]
 ! Title: 🔒 Full Privacy Essentials for AdBlock Plus
 ! Description: An opinionated list for advanced hardening. Minimize connections to third-party sites.
-! Version: 16 Jun 2025
+! Version: 16 Jun 2026
 ! License: https://creativecommons.org/licenses/by/3.0/
 ! Homepage: https://github.com/Metrokoto/filterlists
 ! Expires: 7 days (update frequency)
